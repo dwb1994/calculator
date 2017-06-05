@@ -1,0 +1,30 @@
+.m-header{
+    background-color: #2c2c2c;
+    text-align: center;
+    position: relative;
+    line-height: 48px;
+    color: #fff;
+}
+
+.title{
+    font-size: 18px;
+    font-weight: normal;
+    margin: 0;
+    padding: 0;
+}
+
+.left{
+    font-size: 16px;
+    font-weight: normal;
+    position: absolute;
+    left: 15px;
+    top: 0;
+}
+
+.right{
+    font-size: 16px;
+    font-weight: normal;
+    position: absolute;
+    right: 15px;
+    top: 0;
+}
