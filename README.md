@@ -3,6 +3,7 @@
 根目录下执行
 
 ```
+npm install
 npm start
 ```
 
